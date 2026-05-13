@@ -1,0 +1,9 @@
+"
+%0
+Short brief e.g Deletes all channels
+%1
+More detailed description basically just yap and write about something
+%2
+- argument_name: ArgType (e. g Optional string or Optional integer)
+    - Argument description e.g The amount of channels to create (if argument_name was amount and cmd was create_channels)
+"

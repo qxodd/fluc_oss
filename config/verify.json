@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "id": 0,
+    "secret": "",
+    "scope": [
+        "identify",
+        "guilds.join"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "manager": "",
+    "no_admin": "",
+    "science": "",
+    "datalix_api_token": null,
+    "pterodactyl_api_token": "",
+    "pterodactyl_hostname": "",
+    "service": "",
+    "owner_id": 0,
+    "server_id": 0,
+    "invite_channel": 0,
+    "lander": 0,
+    "emoji_server": 0,
+    "enable_verify": false,
+    "max_servers": 75,
+    "small_server": 25,
+    "test_server": 10,
+    "user_command_concurrency": 5,
+    "global_command_concurrency": 10,
+    "worker_authorization": "",
+    "proxy": {
+        "http": "9",
+        "https": ""
+    },
+    "workers": [
+        "",
+        "",
+        ""
+    ]
+}

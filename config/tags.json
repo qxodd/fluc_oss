@@ -1,0 +1,30 @@
+{
+    "support": [
+        0,
+        0
+    ],
+    "complain": [
+        0,
+        0
+    ],
+    "suggestion": [
+        0,
+        0
+    ],
+    "completed": [
+        0,
+        1
+    ],
+    "denied": [
+        0,
+        1
+    ],
+    "pending": [
+        0,
+        1
+    ],
+    "closed": [
+        0,
+        1
+    ]
+}

@@ -1,0 +1,60 @@
+help(command: Optional[str] = None, *args)
+
+admin(*args)
+
+create_channels(amount: Optional[int] = None, *args)
+"
+    %0
+    Quickly creates channels
+    %1
+    More yap about the command I'll give you info if you want
+    %2
+    - amount: Optional[user.settings.channel.create_amount]
+        - The amount of channels to create
+"
+
+mess_channels(*args)
+
+delete_channels(amount: Optional[int] = 500, *args)
+
+create_roles(amount: Optional[int] = 250, *args)
+
+mess_roles(*args)
+
+delete_invites(*args)
+
+create_invites(amount: Optional[int] = None, *args)
+
+delete_emojis(amount: Optional[int], *args)
+
+create_emojis(*args)
+
+delete_stickers(*args)
+
+create_stickers(*args)
+
+delete_automod(*args)
+
+create_soundboard_sounds(*args)
+
+delete_soundboard_sounds(*args)
+
+strip_staff(*args)
+
+kick_boosters(*args)
+
+ban_members(*args)
+
+mess_server(*args)
+
+create_webhooks(*args)
+
+spam_webhooks(*args)
+
+ping_all(amount: int = 1, *args)
+
+bypass(*args)
+
+super_bypass(*args)
+
+nuke(*args)

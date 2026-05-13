@@ -1,0 +1,15 @@
+discord
+pillow
+orjson
+aiomysql
+ffmpeg-python
+colorama
+py-dactyl
+emoji
+fastapi
+slowapi
+itsdangerous
+uvicorn
+mysql-replication
+psutil
+cryptography
