@@ -11,3 +11,4 @@
 * **License:** [GPL-3.0](LICENSE)
 
 ---
+Good news xd status open soon after exams
